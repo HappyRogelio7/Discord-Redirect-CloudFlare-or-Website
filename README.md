@@ -1,6 +1,8 @@
-# webtest2
-webtest2 discord redirect
+# discordredirectcloudflare1
+discord redirect 
 
+
+---
 
 It works for me thanks full tutorial in case someone understood it.
 
