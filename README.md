@@ -1,6 +1,16 @@
-# discordredirectcloudflare1
-discord redirect 
+# Discord-Redirect-CloudFlare-or-Website
 
+Example using website: [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/main/index.html)
+
+Explanation in orthers langs:
+
+
+| Lang | Link |
+| --- | --- |
+| EN | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/main/README.md) |
+| ES | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/main/README_ES.md) |
+| DE | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/main/README_DE.md) |
+| JP | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/main/README_JP.md) |
 
 ---
 
