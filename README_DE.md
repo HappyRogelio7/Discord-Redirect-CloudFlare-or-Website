@@ -34,7 +34,6 @@ Als Ziel-URL gibst du nun den Permanenten Einladungslink für deinen Discord ein
 
 <img src="https://raw.githubusercontent.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/master/oBufr.png" alt="discord"/>
 
-That's how it works, in case it doesn't load you because you have already tried many methods with "discord.yourdomain.com", try another subdomain while the other one is reactivated or try from another device, example of another dub domain "discord1.yourdomain.com".
 So funktioniert es. Sollte es nicht laden dann hast du "discord.deinedomain.de" schon zu oft versucht, versuche stattdessen eine andere Subdomain wie "discord1.deinedomain.de" oder versuche es auf einem anderen Gerät.
 
 **Das ist alles, bye :D**
