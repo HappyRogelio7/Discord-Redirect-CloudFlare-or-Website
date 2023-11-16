@@ -34,6 +34,6 @@ in Enter destination URL (required) you put the url of the Discord invitation: "
 
 <img src="https://raw.githubusercontent.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/master/oBufr.png" alt="discord"/>
 
-That's how it works, in case it doesn't load you because you have already tried many methods with "discord.yourdomain.com", try another subdomain while the other one is reactivated or try from another device, example of another dub domain "discord1. yourdomain.com".
+That's how it works, in case it doesn't load you because you have already tried many methods with "discord.yourdomain.com", try another subdomain while the other one is reactivated or try from another device, example of another dub domain "discord1.yourdomain.com".
 
 **That's bye :D**
