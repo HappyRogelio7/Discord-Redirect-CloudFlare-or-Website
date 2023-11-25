@@ -7,11 +7,10 @@ Erklärung in anderen Sprachen:
 
 | Sprache | Link | Author |
 | --- | --- | --- |
-| EN | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README.md) | @HappyRogelio7 |
-| ES | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | @HappyRogelio7 |
-| DE | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_DE.md) | @InfoBlock |
-| JP | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | @HappyRogelio7 |
-
+| EN | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
+| ES | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
+| DE | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_DE.md) | [@InfoBlock](https://github.com/InfoBlock) |
+| JP | [Hier klicken](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
 ---
 
 Es funktioniert bei mir! Ein kleines Tutorial für die, die es verstanden haben.
