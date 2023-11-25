@@ -8,9 +8,9 @@ Explanation in orthers langs:
 | Lang | Link | Author |
 | --- | --- | --- |
 | EN | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
-| ES | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | @HappyRogelio7](https://github.com/HappyRogelio7) |
+| ES | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
 | DE | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_DE.md) | [@InfoBlock](https://github.com/InfoBlock) |
-| JP | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | @HappyRogelio7](https://github.com/HappyRogelio7) |
+| JP | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
 
 ---
 
