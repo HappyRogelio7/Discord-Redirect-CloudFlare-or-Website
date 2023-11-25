@@ -5,12 +5,12 @@ Ejemplo usando website: [Click Here](https://github.com/HappyRogelio7/Discord-Re
 Explanation in orthers langs:
 
 
-| Lang | Link | Author |
+| Idioma | Link | Autor |
 | --- | --- | --- |
-| EN | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README.md) | @HappyRogelio7 |
-| ES | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | @HappyRogelio7 |
-| DE | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_DE.md) | @InfoBlock |
-| JP | [Click Here](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | @HappyRogelio7 |
+| EN | [Click Aquí](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
+| ES | [Click Aquí](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_ES.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
+| DE | [Click Aquí](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_DE.md) | [@InfoBlock](https://github.com/InfoBlock) |
+| JP | [Click Aquí](https://github.com/HappyRogelio7/Discord-Redirect-CloudFlare-or-Website/blob/master/README_JP.md) | [@HappyRogelio7](https://github.com/HappyRogelio7) |
 
 ---
 
